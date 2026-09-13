@@ -10,12 +10,12 @@ The project is based on more than **130,000 Lichess games** and combines game me
 
 We analyze factors such as:
 
-- ♟️ Stockfish position evaluation
-- ⏱️ Remaining time and time pressure
-- 🎯 Centipawn loss
-- 📈 Player Elo ratings
-- 🕹️ Game format and time control
-- 📊 Player performance throughout the game
+- Stockfish position evaluation
+- Remaining time and time pressure
+- Centipawn loss
+- Player Elo ratings
+- Game format and time control
+- Player performance throughout the game
 
 Different approaches are compared, ranging from simple heuristic rules to machine learning models including **Logistic Regression**, **Decision Trees**, and **Random Forests**.
 
