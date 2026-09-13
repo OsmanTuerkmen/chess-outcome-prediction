@@ -23,7 +23,7 @@ The goal is not only to predict whether White wins, but also to produce meaningf
 
 ---
 
-## 🧠 Models
+## Models
 
 - Heuristic Prediction Rules
 - Logistic Regression
@@ -32,25 +32,25 @@ The goal is not only to predict whether White wins, but also to produce meaningf
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 `R` · `Machine Learning` · `Lichess API` · `Stockfish` · `Data Analysis` · `Data Visualization`
 
 ---
 
-## 🎯 Research Question
+## Research Question
 
 > **Can probabilities of outcomes in a chess game be predicted using in-game metrics?**
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The analysis uses data from more than **130,000 chess games played on Lichess**, enriched with additional move-level information such as engine evaluation, remaining time, centipawn loss, and game phase.
 
 ---
 
-## 🚀 Key Idea
+## Key Idea
 
 Traditional chess engines evaluate the objective strength of a position assuming near-optimal play.
 
